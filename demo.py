@@ -1,2 +1,2 @@
- data=input("enter the data"
-            )
+ data=input("enter the data" )
+print("sub)
